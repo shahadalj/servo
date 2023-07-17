@@ -1,6 +1,6 @@
 # second task 
 ## SERVO MOTOR 
-#Here is the circuit using Tinkercad 
+# Here is the circuit using Tinkercad 
 
 
-![Alt text](servo.motor.png)
+![Alt text](servo_motor.png)
