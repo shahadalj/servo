@@ -2,4 +2,4 @@
 ## SERVO MOTOR 
 Here is the circuit using tinkercad 
 
-![Alt text](servo motor.png)
+![Alt text].(servo motor.png)
