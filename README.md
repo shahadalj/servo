@@ -3,4 +3,4 @@
 # Here is the circuit using Tinkercad 
 
 
-![Alt text](servo_motor.png)
+![picture].(servo motor.png).
